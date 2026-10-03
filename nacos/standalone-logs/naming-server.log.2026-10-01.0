@@ -1,0 +1,40 @@
+2026-10-01 18:10:44,122 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2026-10-01 18:10:44,123 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2026-10-01 18:10:44,124 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2026-10-01 18:10:44,124 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2026-10-01 18:11:37,119 INFO Client connection 1790849496970_172.23.0.1_32768 connect
+
+2026-10-01 18:11:37,139 INFO Client connection 1790849496970_172.23.0.1_32770 connect
+
+2026-10-01 18:11:37,185 INFO Client change for service Service{namespace='dev', group='DEFAULT_GROUP', name='customer-service', ephemeral=true, revision=0}, 1790849496970_172.23.0.1_32768
+
+2026-10-01 18:11:37,185 INFO Client change for service Service{namespace='dev', group='DEFAULT_GROUP', name='order-service', ephemeral=true, revision=0}, 1790849496970_172.23.0.1_32770
+
+2026-10-01 18:11:37,195 WARN [fuzzy-watch] service change matched,service key dev@@DEFAULT_GROUP@@customer-service,changed type ADD_SERVICE 
+
+2026-10-01 18:11:37,195 WARN [fuzzy-watch] service change matched,service key dev@@DEFAULT_GROUP@@order-service,changed type ADD_SERVICE 
+
+2026-10-01 18:12:26,367 INFO Client remove for service Service{namespace='dev', group='DEFAULT_GROUP', name='customer-service', ephemeral=true, revision=1}, 1790849496970_172.23.0.1_32768
+
+2026-10-01 18:12:26,368 WARN [fuzzy-watch] service change matched,service key dev@@DEFAULT_GROUP@@customer-service,changed type DELETE_SERVICE 
+
+2026-10-01 18:12:26,373 INFO Client remove for service Service{namespace='dev', group='DEFAULT_GROUP', name='order-service', ephemeral=true, revision=1}, 1790849496970_172.23.0.1_32770
+
+2026-10-01 18:12:26,374 WARN [fuzzy-watch] service change matched,service key dev@@DEFAULT_GROUP@@order-service,changed type DELETE_SERVICE 
+
+2026-10-01 18:12:26,386 INFO Client connection 1790849496970_172.23.0.1_32768 disconnect, remove instances and subscribers
+
+2026-10-01 18:12:26,388 INFO Client connection 1790849496970_172.23.0.1_32770 disconnect, remove instances and subscribers
+
+2026-10-01 18:14:14,069 WARN namespace : dev, [DEFAULT_GROUP@@customer-service] services are automatically cleaned
+
+2026-10-01 18:14:14,069 WARN namespace : dev, [DEFAULT_GROUP@@order-service] services are automatically cleaned
+
+2026-10-01 18:51:18,822 INFO [NamingServerHttpClientManager] Start destroying HTTP-Client
+
+2026-10-01 18:51:18,831 INFO [NamingServerHttpClientManager] Completed destruction of HTTP-Client
+

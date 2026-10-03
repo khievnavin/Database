@@ -1,0 +1,150 @@
+2026-10-02 10:37:27,127 INFO notifyConnectTimeout:100
+
+2026-10-02 10:37:27,129 INFO notifySocketTimeout:200
+
+2026-10-02 10:37:27,130 INFO isHealthCheck:true
+
+2026-10-02 10:37:27,130 INFO maxHealthCheckFailCount:12
+
+2026-10-02 10:37:27,130 INFO maxContent:10485760
+
+2026-10-02 10:37:33,447 INFO All dump page size is set to 100 according to mem limit 1024 MB
+
+2026-10-02 10:37:33,452 WARN DumpService start
+
+2026-10-02 10:37:33,454 INFO start clear all config-info.
+
+2026-10-02 10:37:33,455 INFO clear all config-info success.
+
+2026-10-02 10:37:33,455 INFO clear all config-info-tenant success.
+
+2026-10-02 10:37:33,463 INFO start dump all config-info...
+
+2026-10-02 10:37:33,463 INFO success to  dump all config-info。
+
+2026-10-02 10:37:33,463 INFO start to clear all gray-config-info on startup.
+
+2026-10-02 10:37:33,464 INFO clear all config-info-gray success.
+
+2026-10-02 10:37:33,464 INFO clear all config-info-gray-tenant success.
+
+2026-10-02 10:37:37,189 INFO notifyConnectTimeout:100
+
+2026-10-02 10:37:37,190 INFO notifySocketTimeout:200
+
+2026-10-02 10:37:37,190 INFO isHealthCheck:true
+
+2026-10-02 10:37:37,190 INFO maxHealthCheckFailCount:12
+
+2026-10-02 10:37:37,190 INFO maxContent:10485760
+
+2026-10-02 10:37:39,991 INFO notifyConnectTimeout:100
+
+2026-10-02 10:37:39,992 INFO notifySocketTimeout:200
+
+2026-10-02 10:37:39,992 INFO isHealthCheck:true
+
+2026-10-02 10:37:39,992 INFO maxHealthCheckFailCount:12
+
+2026-10-02 10:37:39,992 INFO maxContent:10485760
+
+2026-10-02 14:49:28,884 INFO notifyConnectTimeout:100
+
+2026-10-02 14:49:28,887 INFO notifySocketTimeout:200
+
+2026-10-02 14:49:28,888 INFO isHealthCheck:true
+
+2026-10-02 14:49:28,888 INFO maxHealthCheckFailCount:12
+
+2026-10-02 14:49:28,888 INFO maxContent:10485760
+
+2026-10-02 14:49:35,814 INFO All dump page size is set to 100 according to mem limit 1024 MB
+
+2026-10-02 14:49:35,818 WARN DumpService start
+
+2026-10-02 14:49:35,818 INFO start clear all config-info.
+
+2026-10-02 14:49:35,820 INFO clear all config-info success.
+
+2026-10-02 14:49:35,820 INFO clear all config-info-tenant success.
+
+2026-10-02 14:49:35,827 INFO start dump all config-info...
+
+2026-10-02 14:49:35,827 INFO success to  dump all config-info。
+
+2026-10-02 14:49:35,827 INFO start to clear all gray-config-info on startup.
+
+2026-10-02 14:49:35,827 INFO clear all config-info-gray success.
+
+2026-10-02 14:49:35,827 INFO clear all config-info-gray-tenant success.
+
+2026-10-02 14:49:39,933 INFO notifyConnectTimeout:100
+
+2026-10-02 14:49:39,934 INFO notifySocketTimeout:200
+
+2026-10-02 14:49:39,934 INFO isHealthCheck:true
+
+2026-10-02 14:49:39,934 INFO maxHealthCheckFailCount:12
+
+2026-10-02 14:49:39,934 INFO maxContent:10485760
+
+2026-10-02 14:49:42,936 INFO notifyConnectTimeout:100
+
+2026-10-02 14:49:42,936 INFO notifySocketTimeout:200
+
+2026-10-02 14:49:42,936 INFO isHealthCheck:true
+
+2026-10-02 14:49:42,936 INFO maxHealthCheckFailCount:12
+
+2026-10-02 14:49:42,936 INFO maxContent:10485760
+
+2026-10-02 16:59:29,924 INFO notifyConnectTimeout:100
+
+2026-10-02 16:59:29,930 INFO notifySocketTimeout:200
+
+2026-10-02 16:59:29,930 INFO isHealthCheck:true
+
+2026-10-02 16:59:29,930 INFO maxHealthCheckFailCount:12
+
+2026-10-02 16:59:29,930 INFO maxContent:10485760
+
+2026-10-02 16:59:35,022 INFO All dump page size is set to 100 according to mem limit 1024 MB
+
+2026-10-02 16:59:35,025 WARN DumpService start
+
+2026-10-02 16:59:35,026 INFO start clear all config-info.
+
+2026-10-02 16:59:35,027 INFO clear all config-info success.
+
+2026-10-02 16:59:35,027 INFO clear all config-info-tenant success.
+
+2026-10-02 16:59:35,033 INFO start dump all config-info...
+
+2026-10-02 16:59:35,034 INFO success to  dump all config-info。
+
+2026-10-02 16:59:35,034 INFO start to clear all gray-config-info on startup.
+
+2026-10-02 16:59:35,034 INFO clear all config-info-gray success.
+
+2026-10-02 16:59:35,034 INFO clear all config-info-gray-tenant success.
+
+2026-10-02 16:59:38,851 INFO notifyConnectTimeout:100
+
+2026-10-02 16:59:38,851 INFO notifySocketTimeout:200
+
+2026-10-02 16:59:38,851 INFO isHealthCheck:true
+
+2026-10-02 16:59:38,851 INFO maxHealthCheckFailCount:12
+
+2026-10-02 16:59:38,851 INFO maxContent:10485760
+
+2026-10-02 16:59:41,367 INFO notifyConnectTimeout:100
+
+2026-10-02 16:59:41,367 INFO notifySocketTimeout:200
+
+2026-10-02 16:59:41,367 INFO isHealthCheck:true
+
+2026-10-02 16:59:41,367 INFO maxHealthCheckFailCount:12
+
+2026-10-02 16:59:41,367 INFO maxContent:10485760
+

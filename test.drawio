@@ -1,0 +1,25 @@
+<mxfile host="65bd71144e">
+    <diagram id="vh1aRGPcR7vPKSp2Und8" name="Page-1">
+        <mxGraphModel dx="825" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="uVybAWCK91QwYIQeq6NH-6" edge="1" parent="1" source="uVybAWCK91QwYIQeq6NH-1" style="edgeStyle=none;curved=1;html=1;startArrow=classic;startFill=1;" target="uVybAWCK91QwYIQeq6NH-2" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="uVybAWCK91QwYIQeq6NH-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="frontned" vertex="1">
+                    <mxGeometry height="40" width="120" x="80" y="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="uVybAWCK91QwYIQeq6NH-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="backend" vertex="1">
+                    <mxGeometry height="40" width="120" x="80" y="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="uVybAWCK91QwYIQeq6NH-4" edge="1" parent="1" source="uVybAWCK91QwYIQeq6NH-3" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="uVybAWCK91QwYIQeq6NH-2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="uVybAWCK91QwYIQeq6NH-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="API" vertex="1">
+                    <mxGeometry height="40" width="120" x="365" y="160" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

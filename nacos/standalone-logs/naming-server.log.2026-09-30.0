@@ -1,0 +1,60 @@
+2026-09-30 10:59:40,651 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2026-09-30 10:59:40,651 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2026-09-30 10:59:40,652 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2026-09-30 10:59:40,652 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2026-09-30 11:05:32,278 INFO [NamingServerHttpClientManager] Start destroying HTTP-Client
+
+2026-09-30 11:05:32,282 INFO [NamingServerHttpClientManager] Completed destruction of HTTP-Client
+
+2026-09-30 17:05:10,844 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2026-09-30 17:05:10,844 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2026-09-30 17:05:10,845 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2026-09-30 17:05:10,845 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2026-09-30 17:51:07,422 INFO [NamingServerHttpClientManager] Start destroying HTTP-Client
+
+2026-09-30 17:51:07,427 INFO [NamingServerHttpClientManager] Completed destruction of HTTP-Client
+
+2026-09-30 17:51:32,860 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2026-09-30 17:51:32,860 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2026-09-30 17:51:32,861 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2026-09-30 17:51:32,861 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2026-09-30 17:52:08,991 INFO [NamingServerHttpClientManager] Start destroying HTTP-Client
+
+2026-09-30 17:52:08,995 INFO [NamingServerHttpClientManager] Completed destruction of HTTP-Client
+
+2026-09-30 17:52:32,288 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2026-09-30 17:52:32,288 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2026-09-30 17:52:32,289 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2026-09-30 17:52:32,289 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2026-09-30 19:05:17,044 INFO Client connection 1790766316794_172.23.0.1_35024 connect
+
+2026-09-30 19:05:17,202 INFO Client connection 1790766316794_172.23.0.1_35024 disconnect, remove instances and subscribers
+
+2026-09-30 19:06:55,280 INFO Client connection 1790766415175_172.23.0.1_53566 connect
+
+2026-09-30 19:06:55,360 INFO Client change for service Service{namespace='dev', group='DEFAULT_GROUP', name='order-service', ephemeral=true, revision=0}, 1790766415175_172.23.0.1_53566
+
+2026-09-30 19:06:55,364 WARN [fuzzy-watch] service change matched,service key dev@@DEFAULT_GROUP@@order-service,changed type ADD_SERVICE 
+
+2026-09-30 19:11:18,610 INFO Client remove for service Service{namespace='dev', group='DEFAULT_GROUP', name='order-service', ephemeral=true, revision=1}, 1790766415175_172.23.0.1_53566
+
+2026-09-30 19:11:18,611 WARN [fuzzy-watch] service change matched,service key dev@@DEFAULT_GROUP@@order-service,changed type DELETE_SERVICE 
+
+2026-09-30 19:11:18,621 INFO Client connection 1790766415175_172.23.0.1_53566 disconnect, remove instances and subscribers
+
