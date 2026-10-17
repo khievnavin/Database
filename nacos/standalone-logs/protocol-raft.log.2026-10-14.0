@@ -1,0 +1,70 @@
+2026-10-14 17:07:11,138 INFO Initializes the Raft protocol, raft-config info : {"data":{},"members":["4d194d13e499:7848"],"strictMode":false,"selfMember":"4d194d13e499:7848"}
+
+2026-10-14 17:07:11,387 INFO ========= The raft protocol is starting... =========
+
+2026-10-14 17:07:11,617 INFO ========= The raft protocol start finished... =========
+
+2026-10-14 17:07:11,634 INFO create raft group : naming_persistent_service_v2
+
+2026-10-14 17:07:12,002 INFO create raft group : naming_persistent_service
+
+2026-10-14 17:07:12,010 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service_v2', leader='4d194d13e499:7848', term=1, raftClusterInfo=[4d194d13e499:7848]}
+
+2026-10-14 17:07:12,116 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service', leader='4d194d13e499:7848', term=1, raftClusterInfo=[4d194d13e499:7848]}
+
+2026-10-14 17:07:12,121 INFO create raft group : naming_instance_metadata
+
+2026-10-14 17:07:12,219 INFO create raft group : naming_service_metadata
+
+2026-10-14 17:07:12,231 INFO This Raft event changes : RaftEvent{groupId='naming_instance_metadata', leader='4d194d13e499:7848', term=1, raftClusterInfo=[4d194d13e499:7848]}
+
+2026-10-14 17:07:12,339 INFO This Raft event changes : RaftEvent{groupId='naming_service_metadata', leader='4d194d13e499:7848', term=1, raftClusterInfo=[4d194d13e499:7848]}
+
+2026-10-14 17:07:13,294 INFO create raft group : lock_acquire_service_v2
+
+2026-10-14 17:07:13,415 INFO This Raft event changes : RaftEvent{groupId='lock_acquire_service_v2', leader='4d194d13e499:7848', term=1, raftClusterInfo=[4d194d13e499:7848]}
+
+2026-10-14 17:07:13,488 INFO create raft group : plugin_state
+
+2026-10-14 17:07:13,596 INFO This Raft event changes : RaftEvent{groupId='plugin_state', leader='4d194d13e499:7848', term=1, raftClusterInfo=[4d194d13e499:7848]}
+
+2026-10-14 17:07:14,789 INFO All Nacos servers support JRaft authentication; enforcement is enabled
+
+2026-10-14 17:12:31,111 INFO shutdown jraft server
+
+2026-10-14 17:12:31,111 INFO ========= The raft protocol is starting to close =========
+
+2026-10-14 17:12:31,212 INFO ========= The raft protocol has been closed =========
+
+2026-10-14 17:14:43,174 INFO Initializes the Raft protocol, raft-config info : {"data":{},"members":["51ed86cddfef:7848"],"strictMode":false,"selfMember":"51ed86cddfef:7848"}
+
+2026-10-14 17:14:43,406 INFO ========= The raft protocol is starting... =========
+
+2026-10-14 17:14:43,651 INFO ========= The raft protocol start finished... =========
+
+2026-10-14 17:14:43,669 INFO create raft group : naming_persistent_service_v2
+
+2026-10-14 17:14:44,036 INFO create raft group : naming_persistent_service
+
+2026-10-14 17:14:44,045 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service_v2', leader='51ed86cddfef:7848', term=1, raftClusterInfo=[51ed86cddfef:7848]}
+
+2026-10-14 17:14:44,210 INFO This Raft event changes : RaftEvent{groupId='naming_persistent_service', leader='51ed86cddfef:7848', term=1, raftClusterInfo=[51ed86cddfef:7848]}
+
+2026-10-14 17:14:44,221 INFO create raft group : naming_instance_metadata
+
+2026-10-14 17:14:44,329 INFO create raft group : naming_service_metadata
+
+2026-10-14 17:14:44,340 INFO This Raft event changes : RaftEvent{groupId='naming_instance_metadata', leader='51ed86cddfef:7848', term=1, raftClusterInfo=[51ed86cddfef:7848]}
+
+2026-10-14 17:14:44,434 INFO This Raft event changes : RaftEvent{groupId='naming_service_metadata', leader='51ed86cddfef:7848', term=1, raftClusterInfo=[51ed86cddfef:7848]}
+
+2026-10-14 17:14:45,222 INFO create raft group : lock_acquire_service_v2
+
+2026-10-14 17:14:45,337 INFO This Raft event changes : RaftEvent{groupId='lock_acquire_service_v2', leader='51ed86cddfef:7848', term=1, raftClusterInfo=[51ed86cddfef:7848]}
+
+2026-10-14 17:14:45,429 INFO create raft group : plugin_state
+
+2026-10-14 17:14:45,544 INFO This Raft event changes : RaftEvent{groupId='plugin_state', leader='51ed86cddfef:7848', term=1, raftClusterInfo=[51ed86cddfef:7848]}
+
+2026-10-14 17:14:46,767 INFO All Nacos servers support JRaft authentication; enforcement is enabled
+

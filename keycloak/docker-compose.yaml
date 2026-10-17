@@ -29,3 +29,8 @@ services:
 
 volumes:
   keycloak_pg_vol:
+networks:
+  ecommerce-net:
+    external: true
+
+# http://localhost:8180/admin/ecommerce/console/

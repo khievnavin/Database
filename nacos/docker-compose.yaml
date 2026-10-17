@@ -1,17 +1,14 @@
 services:
   nacos-server:
-    image: nacos/nacos-server:latest
+    image: nacos/nacos-server
     container_name: nacos-server
-    # restart: unless-stopped
 
     environment:
-      PREFER_HOST_MODE: hostname
-      MODE: standalone
-
-      # Nacos authentication
-      NACOS_AUTH_IDENTITY_KEY: serverIdentity
-      NACOS_AUTH_IDENTITY_VALUE: security
-      NACOS_AUTH_TOKEN: VGhpc0lzTXlDdXN0b21TZWNyZXRLZXkwMTIzNDU2Nzg=
+      - PREFER_HOST_MODE=hostname
+      - MODE=standalone
+      - NACOS_AUTH_IDENTITY_KEY=serverIdentity
+      - NACOS_AUTH_IDENTITY_VALUE=serverIdentityValue
+      - NACOS_AUTH_TOKEN=yeGwejq9+yqQWkBwH9xaxKFEkakCd5oGhI2o8Hs1T+s=
 
     volumes:
       - ./standalone-logs:/home/nacos/logs
